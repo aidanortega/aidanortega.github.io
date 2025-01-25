@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.ifc.unam.mx/'>Instituto de Fisiología Celular</a> * <a href='https://www.ifc.unam.mx/'>Universidad Nacional Autónoma de México</a>
+subtitle: <a href='https://www.ifc.unam.mx/'>Instituto de Fisiología Celular</a> * <a href='https://www.unam.mx/'>Universidad Nacional Autónoma de México</a>
 
 profile:
   align: left
   image: aidan_prof_pic.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>CDMX, Mexico</p>
+  # more_info: >
+    # <p>CDMX, Mexico</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -27,13 +27,6 @@ I am passionate about open science and interdisciplinary research, bridging the 
 Outside academia, I enjoy exploring AI applications (not only in engineering) and mentoring students in scientific and engineering research projects.
 
 For collaborations, feel free to reach out!
-
-
-You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. 
-
-
 
 Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
