@@ -1,5 +1,11 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD candidate in Biomedical Sciences focusing in Neuroscience and Neurobiology with expertise in electrophysiology, computational neuroscience and data analysis. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on **neural network dynamics** using techniques such as **patch clamp**, **calcium imaging** and **multi-electrode array (MEA)** recordings to study brain activity and machine learning to perform the analyses. I have developed custom Python scripts for automated processing and analyzing experimental datasets, including spike detection and characterization, spike clustering and spectral analysis of neural data.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond research, I teach at the <a href='https://www.ingenieria.unam.mx/'>Facultad de Ingeniería</a>, offering courses in Mechanical Drawing, Computer-Aided Design (CAD), and Computer-Aided Manufacturing (CAM). My classes blend computational simulations with hands-on prototyping, emphasizing design methodology and manufacturing processes.
+
+I am passionate about open science and interdisciplinary research, bridging the gap between neuroscience and engineering.
+
+Outside academia, I enjoy exploring AI applications (not only in engineering) and mentoring students in scientific and engineering research projects.
+
+For collaborations, feel free to reach out!
