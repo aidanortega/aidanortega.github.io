@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.ifc.unam.mx/'>Instituto de Fisiología Celular</a> * <a href='https://www.unam.mx/'>Universidad Nacional Autónoma de México</a>
+subtitle: <a href='https://www.ifc.unam.mx/'>Instituto de Fisiología Celular</a> • <a href='https://www.unam.mx/'>Universidad Nacional Autónoma de México</a>
 
 profile:
   align: left
@@ -13,7 +13,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 I am a PhD candidate in Biomedical Sciences focusing in Neuroscience and Neurobiology with expertise in electrophysiology, computational neuroscience and data analysis. 
