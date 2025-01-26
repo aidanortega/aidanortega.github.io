@@ -26,4 +26,4 @@ I am passionate about open science and interdisciplinary research, bridging the 
 
 Outside academia, I enjoy exploring AI applications (not only in engineering) and mentoring students in scientific and engineering research projects.
 
-For collaborations, feel free to reach out!
+For contact, feel free to reach out!
